@@ -106,16 +106,16 @@ Mejorar la visión de la ciudadanía demostrando que en conjunto podemos resolve
  
 Si quieres ver los camiones recolectores que están cerca de ti, puedes acceder dando clic en el ícono del mapa que aparece en la parte superior izquierda de tu dispositivo, la ubicación tiene que estar activa.
 
-![Screenshot](noticias.png)
+![Screenshot](busquedacamiones.png)
 
 Esta aplicación cuenta con un apartado de “noticias/avisos”, para ingresar selecciona el ícono de la campanita en la parte inferior de tu dispositivo.
 
-![Screenshot](recomendaciones.png)
+![Screenshot](noticias.png)
 
 
 Tu aplicación también cuenta con un área de recomendaciones, en donde podrás ver eventos que se están llevando a cabo o eventos futuros, para acceder aquí, da clic en el ícono del foco ubicado en la parte posterior derecha de tu dispositivo
 
-![Screenshot](Operador.png)
+![Screenshot](recomendaciones.png)
  
 Cómo contribuir
 Código de conducta
