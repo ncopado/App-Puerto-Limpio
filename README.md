@@ -51,8 +51,15 @@ Dispositivos android
 
 ![Screenshot](busqueda.png)
 
+3.	Seleccionar la app con la siguiente  imagen 
 
-.
+![Screenshot](puertolimpio.png)
+
+
+4.	Seleccionar el botón “instalar”
+
+5.	Esperar que la app finalice su instalación
+
 
 ## Guía de usuario
  
