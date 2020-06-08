@@ -45,7 +45,13 @@ Mejorar la visión de la ciudadanía demostrando que en conjunto podemos resolve
 Dispositivos android
 1.	Entrar Google Play Store
 
-<img src="play.png" width="20%" height="20%" heigt align="left">
+![Screenshot](play.png)
+
+2.	En la barra de búsqueda, escribir “Veracruz puerto limpio”
+
+![Screenshot](busqueda.png)
+
+
 .
 
 ## Guía de usuario
