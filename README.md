@@ -1,6 +1,6 @@
 # Veracruz Puerto Limpio
 
-## Acerca Veracruz Puerto Limpio
+### Acerca de Veracruz Puerto Limpio
 El municipio de Veracruz, se ubica en el estado con el mismo nombre, al centro Este de la República Mexicana, en el golfo de México, y se caracteriza por diversos sucesos históricos acontecidos en dicho lugar; es considerado el municipio más antiguo de América Continental fundado hace 500 años.
  
 De igual forma, es uno de los municipios con mayor desarrollo urbano en México, principalmente porque en dicho lugar se encuentra el puerto marítimo más grande del país, además que es el más poblado del estado ya que actualmente habitan más de 600,941 personas (de los cuales 285,292 hombres y 315,649 mujeres), en una extensión territorial 247.9 km2 y una superficie urbana de 115.6 km²,  integrada por más de 200 colonias, con una densidad de población de 2,379 hab/km², una densidad urbana 4,794 hab/km², con una tasa de crecimiento media anual de la población 1.9 quinquenal (0.2%), lo que representa un índice de urbanización de 93.1 sobre el total de su territorio y contando con 184,242  viviendas particulares habitadas (VPH) lo que representa 73.7% y 78,820 negocios o establecimientos que representa el 26.3% restante. 
@@ -42,7 +42,8 @@ Mejorar la visión de la ciudadanía demostrando que en conjunto podemos resolve
 *        Dispositivos Android desde versión kit kat
 *        Mínimo de espacio requerido 80 mb
 *        Conexión de red
-Dispositivos android
+
+#### Dispositivos android
 1.	Entrar Google Play Store
 
 ![Screenshot](play.png)
@@ -63,38 +64,58 @@ Dispositivos android
 
 ## Guía de usuario
  
-Usar por primera vez
-1.	Concede los permisos de ubicación y almacenamiento
-2.	Ingresa tu correo electrónico, tu nombre y crea una contraseña
-3.	Selecciona el botón “Registrarse”
-Para crear suscripción en una zona
-4.	Entra en el apartado “Suscripciones”
+#### Usar por primera vez
+
+ 1.	Concede los permisos de ubicación y almacenamiento
+
+ 2.	Ingresa tu correo electrónico, tu nombre y crea una contraseña
+
+ 3.	Selecciona el botón “Registrarse”
+
+#### Para crear suscripción en una zona
+ 4.	Entra en el apartado “Suscripciones”
+
+  ![Screenshot](Suscripciones.png)
+
+ 5.  Selecciona “crear suscripción” (necesitas activar tu ubicación)
+
+ 6.	En el mapa selecciona el área de tu interés, la cual está delimitada por un color
  
-5.  Selecciona “crear suscripción” (necesitas activar tu ubicación)
-6.	En el mapa selecciona el área de tu interés, la cual está delimitada por un color
+  ![Screenshot](Mapa.png)
 
-7.	Selecciona “volver” para ver si la unidad de limpieza ya inició su turno y poder ver los datos del operador y de la unidad
+ 7.	Selecciona “volver” para ver si la unidad de limpieza ya inició su turno y poder ver los datos del operador y de la unidad
 
-Para agregar un área diferente
-8.	Selecciona “crear suscripción” y selecciona la de tu preferencia.
-Para activar o desactivar notificaciones
-9.	Selecciona “Configurar” en la ruta en la que deseas activar o desactivar notificaciones (están activas por default)
-        
+  ![Screenshot](Operador.png)
+  
+#### Para agregar un área diferente
+ 8.	Selecciona “crear suscripción” y selecciona la de tu preferencia.
+
+#### Para activar o desactivar notificaciones
+ 9.	Selecciona “Configurar” en la ruta en la que deseas activar o desactivar notificaciones (están activas por default)
 10.	Presiona el botón a lado de NOTIFICACIONES (verde=notificaciones activadas, gris=sin notificaciones)
 11. Para cancelar una suscripción, sigue el paso 8 y selecciona “Cancelar suscripción”
-Para iniciar sesión
-12. Ingresa tu correo y contraseña, selecciona “iniciar sesión”
-Si olvidas tu contraseña
-13. Selecciona “olvidé mi contraseña”
-14. Ingresa tu correo electrónico
-15. Te llegará un correo, da clic en el link que te mandan
-16. Ingresa una contraseña nueva
+
+#### Para iniciar sesión
+ 12. Ingresa tu correo y contraseña, selecciona “iniciar sesión”
+
+#### Si olvidas tu contraseña
+ 13. Selecciona “olvidé mi contraseña”
+ 14. Ingresa tu correo electrónico
+ 15. Te llegará un correo, da clic en el link que te mandan
+ 16. Ingresa una contraseña nueva
  
 Si quieres ver los camiones recolectores que están cerca de ti, puedes acceder dando clic en el ícono del mapa que aparece en la parte superior izquierda de tu dispositivo, la ubicación tiene que estar activa.
 
+![Screenshot](noticias.png)
+
 Esta aplicación cuenta con un apartado de “noticias/avisos”, para ingresar selecciona el ícono de la campanita en la parte inferior de tu dispositivo.
 
+![Screenshot](recomendaciones.png)
+
+
 Tu aplicación también cuenta con un área de recomendaciones, en donde podrás ver eventos que se están llevando a cabo o eventos futuros, para acceder aquí, da clic en el ícono del foco ubicado en la parte posterior derecha de tu dispositivo
+
+![Screenshot](Operador.png)
  
 Cómo contribuir
 Código de conducta
