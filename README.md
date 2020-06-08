@@ -51,7 +51,7 @@ Guía de instalación
 *        Conexión de red
 Dispositivos android
 1.	Entrar Google Play Store
-<img src="play.png" width="31%" align="left">
+<img src="play.png" width="20%" height="20%" heigt align="left">
  .
 2.	En la barra de búsqueda, escribir “Veracruz puerto limpio”
 <img src="busqueda.png" width="31%" align="left">
