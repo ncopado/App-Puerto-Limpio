@@ -46,9 +46,9 @@ Dispositivos android
 1.	Entrar Google Play Store
 
 <img src="play.png" width="20%" height="20%" heigt align="left">
+.
 
-
-Guía de usuario
+## Guía de usuario
  
 Usar por primera vez
 1.	Concede los permisos de ubicación y almacenamiento
