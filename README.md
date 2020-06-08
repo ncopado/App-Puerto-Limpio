@@ -1,8 +1,6 @@
-# App-Puerto-Limpio
+# Veracruz Puerto Limpio
 
-Veracruz Puerto Limpio
-
-Descripción y contexto
+## Acerca Veracruz Puerto Limpio
 El municipio de Veracruz, se ubica en el estado con el mismo nombre, al centro Este de la República Mexicana, en el golfo de México, y se caracteriza por diversos sucesos históricos acontecidos en dicho lugar; es considerado el municipio más antiguo de América Continental fundado hace 500 años.
  
 De igual forma, es uno de los municipios con mayor desarrollo urbano en México, principalmente porque en dicho lugar se encuentra el puerto marítimo más grande del país, además que es el más poblado del estado ya que actualmente habitan más de 600,941 personas (de los cuales 285,292 hombres y 315,649 mujeres), en una extensión territorial 247.9 km2 y una superficie urbana de 115.6 km²,  integrada por más de 200 colonias, con una densidad de población de 2,379 hab/km², una densidad urbana 4,794 hab/km², con una tasa de crecimiento media anual de la población 1.9 quinquenal (0.2%), lo que representa un índice de urbanización de 93.1 sobre el total de su territorio y contando con 184,242  viviendas particulares habitadas (VPH) lo que representa 73.7% y 78,820 negocios o establecimientos que representa el 26.3% restante. 
@@ -38,13 +36,8 @@ Mantener a la ciudadanía informada sobre el servicio público;
 Evitar que la ciudadanía saque los residuos cuando ya haya pasado el camión recolector y con ello evitar que lleguen a coladeras, targeas, drenajes o tragatormentas;
 Mejorar la visión de la ciudadanía demostrando que en conjunto podemos resolver nuestros retos ciudadanos.
  
-       
  
- 
- 
- 
- 
-Guía de instalación
+## Guía de instalación
   	Requerimientos
 *        Dispositivos Android desde versión kit kat
 *        Mínimo de espacio requerido 80 mb
@@ -53,20 +46,6 @@ Dispositivos android
 1.	Entrar Google Play Store
 
 <img src="play.png" width="20%" height="20%" heigt align="left">
-
-2.	En la barra de búsqueda, escribir “Veracruz puerto limpio”
-<img src="busqueda.png" width="31%" align="left">
-
-
-
-3.	Seleccionar la app con la siguiente  imagen 
-<img src="puerto limpio.png" width="31%" align="left">
-
-
-
-4.	Seleccionar el botón “instalar”
-5.	Esperar que la app finalice su instalación
- 
 
 
 Guía de usuario
