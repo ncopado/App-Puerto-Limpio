@@ -138,7 +138,8 @@ Tu aplicación también cuenta con un área de recomendaciones, en donde podrás
  
 ## Autores
 
-Luis Enrique Medina Galván
+[Luis Enrique Medina Galván](https://github.com/Liosenri)
+ 
 
 David Rodríguez González
  
