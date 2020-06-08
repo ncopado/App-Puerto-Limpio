@@ -3,7 +3,7 @@
 
 
   - [Acerca de Veracruz Puerto Limpio](#Acerca-de-Veracruz-Puerto-Limpio)
-   - [Guía de instalación](#bGuía-de-instalación)
+   - [Guía de instalación](#Guía-de-instalación)
      - [Dispositivos androids](#Dispositivos-android)
    - [Guía de usuario](#Guía-de-usuario)
 	    - [Usar por primera vez](#Usar-por-primera-vez)
