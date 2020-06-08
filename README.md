@@ -1,4 +1,23 @@
-# Veracruz Puerto Limpio
+# [Veracruz Puerto Limpio](https://play.google.com/store/apps/details?id=com.limpiapublicaveracruzd&hl=es_MX)
+
+
+
+  - [Acerca de Veracruz Puerto Limpio](#Acerca-de-Veracruz-Puerto-Limpio)
+   - [Guía de instalación](#bGuía-de-instalación)
+     - [Dispositivos androids](#Dispositivos-android)
+   - [Guía de usuario](#Guía-de-usuario)
+	    - [Usar por primera vez](#Usar-por-primera-vez)
+     - [Para crear suscripción en una zona](#Para-crear-suscripción-en-una-zona)
+     - [Para activar o desactivar notificaciones](#Para-activar-o-desactivar-notificaciones)
+     - [Para iniciar sesión](#Para-iniciar-sesión)
+     - [Si olvidas tu contraseña](#Si-olvidas-tu-contraseña)
+   - [Autores](#Autores)
+     
+     
+	
+
+
+
 
 ### Acerca de Veracruz Puerto Limpio
 El municipio de Veracruz, se ubica en el estado con el mismo nombre, al centro Este de la República Mexicana, en el golfo de México, y se caracteriza por diversos sucesos históricos acontecidos en dicho lugar; es considerado el municipio más antiguo de América Continental fundado hace 500 años.
@@ -117,9 +136,9 @@ Tu aplicación también cuenta con un área de recomendaciones, en donde podrás
 
 ![Screenshot](recomendaciones.png)
  
-Cómo contribuir
-Código de conducta
-Autores
+## Autores
+
 Luis Enrique Medina Galván
+
 David Rodríguez González
  
