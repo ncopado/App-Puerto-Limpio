@@ -1,4 +1,5 @@
 # [Veracruz Puerto Limpio](https://play.google.com/store/apps/details?id=com.limpiapublicaveracruzd&hl=es_MX)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=AyuntamientoVeracruz_App-Puerto-Limpio&metric=alert_status)](https://sonarcloud.io/dashboard?id=AyuntamientoVeracruz_App-Puerto-Limpio)
 
 Veracruz Puerto Limpio es una aplicación móvil que fue desarrollada mediante el trabajo, colaboración y participación de la ciudadanía con la información proporcionada por el gobierno municipal, en específico de la Dirección de Servicios Públicos municipales.
 
