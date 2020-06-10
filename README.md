@@ -137,6 +137,60 @@ Tu aplicación también cuenta con un área de recomendaciones, en donde podrás
 
 ![Screenshot](recomendaciones.png)
  
+ ### Guía de instalación
+---
+#### Pre-requisitos
++ Instalación de Node.js
+     Necesitamos descargar Node.Js desde su pagina oficial  [puedes descargarlo aquí](https://nodejs.org/es/download.
+
+     Solo debemos escoger el sistema operativo:
+     + Windows 32-bit , 64-bit
+     + MacOs
+     + Código fuente
+
+  La versión actual: 12.16.3(includes npm 6.14.4).
+   Para probar que se instalo correctamente Node.Js. Abrimos una consola cmd y   ejecutamos el siguiente comando:
+
+  `node -v`
+
+     Este comando retornará la versión actual de Node.js. 
+     Para  verificar la versión del gestor de paquetes NPM instalada, ejecutamos el comando:
+
+ `npm -v`
+
+     Este comando retornará la versión actual de NPM. 
+
++ Debes instalar Androi Studio, puedes hacerlo en este ][link](https://developer.android.com/studio).
++ También debes descargar xcode , puedes registrarte en esta [página](https://idmsa.apple.com/IDMSWebAuth/signin?appIdKey=891bd3417a7776362562d2197f89480a8547b108fd934911bcbea0110d07f757&path=%2Fdownload%2F&rv=1) para descargarlo.
+
+#### Instalación
+Empezaremos por clonar el repositorio:
+
+`git clone https://github.com/AyuntamientoVeracruz/App-Puerto-Limpio.git`
+`cd App-Puerto-Limpio`
+
+Instalamos el proyecto y actualizamos las librerías necesarias. Una vez dentro de la carpeta del proyecto App-Puerto-Limpio ejecutamos el siguiente comando:
+
+`npm install`
+
+
+#### Uso
+Para corres el proyecto en entorno de desarrollo ejecutamos el siguiente comando:
+
+`npm start`
+
+¡Y listo! El proyecto se iniciará en algun puerto  de tu navegador predeterminado y se actualizará con cada cambio que realices.
+
+### Cómo contribuir
+---
+Los proyectos que trabajan con  código abierto te permiten que el código fuente y toda la documentación sean libres para consulta. Por lo que puedes contribuir en este o cualquier otro proyecto para mejorar, corregir o sugerir ideas. 
+Puedes encontrar maneras de contribuir a los proyectos de código abierto en GitHub que te parezcan relevantes.
+
+Si hay un tema en particular que te interese, visita `github.com/topics/<topic>`. Para obtener más información, consulta  [Buscar repositorios](github.com/topics/<topic>.) o visita nuestra página [Aquí](https://help.github.com/es/github/getting-started-with-github/finding-ways-to-contribute-to-open-source-on-github).
+
+ 
+ 
+ 
 ## Autores
 
 [Luis Enrique Medina Galván](https://github.com/Liosenri)
